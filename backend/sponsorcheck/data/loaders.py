@@ -26,6 +26,3 @@ def load_special_datasets() -> Dict[str, Any]:
 
 def load_salary_rules() -> Dict[str, Any]:
     return load_json_file("skilled_worker_salary_rules_v3.json")
-
-def load_gap_analysis() -> Dict[str, Any]:
-    return load_json_file("dataset_gap_analysis_v3.json")

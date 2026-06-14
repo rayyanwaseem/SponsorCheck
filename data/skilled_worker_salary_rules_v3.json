@@ -2,136 +2,9 @@
   "metadata": {
     "schema_version": "0.3.0",
     "generated_at": "2026-06-13T17:51:33.030743+00:00",
-    "generated_from_uploaded_files": [
-      "app_data.zip",
-      "missing dataset.zip",
-      "futher missing.zip"
-    ],
     "licence": {
       "name": "Open Government Licence v3.0",
       "note": "GOV.UK pages state that the publication is licensed under OGL v3.0 except where otherwise stated. Preserve attribution in UI, README and reports."
-    },
-    "sources": {
-      "eligible_occupations": {
-        "dataset_id": "eligible_occupations",
-        "saved_file_name": "Skilled Worker visa_ eligible occupations and codes - GOV.UK.html",
-        "title": "Skilled Worker visa: eligible occupations and codes - GOV.UK",
-        "h1": "Skilled Worker visa: eligible occupations and codes",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-eligible-occupations/skilled-worker-visa-eligible-occupations-and-codes",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:10+00:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "going_rates": {
-        "dataset_id": "going_rates",
-        "saved_file_name": "Skilled Worker visa_ going rates for eligible occupation codes - GOV.UK.html",
-        "title": "Skilled Worker visa: going rates for eligible occupation codes - GOV.UK",
-        "h1": "Skilled Worker visa: going rates for eligible occupation codes",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:09+00:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "paid_less": {
-        "dataset_id": "paid_less",
-        "saved_file_name": "Skilled Worker visa_ When you can be paid less - GOV.UK.html",
-        "title": "Skilled Worker visa: When you can be paid less - GOV.UK",
-        "h1": "Skilled Worker visa",
-        "canonical_url": "https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less",
-        "govuk_format": "guide",
-        "first_published_at": "2014-02-07T17:07:29+00:00",
-        "public_updated_at": "2024-10-31T17:00:39+00:00"
-      },
-      "immigration_salary_list": {
-        "dataset_id": "immigration_salary_list",
-        "saved_file_name": "Skilled Worker visa_ immigration salary list - GOV.UK.html",
-        "title": "Skilled Worker visa: immigration salary list - GOV.UK",
-        "h1": "Skilled Worker visa: immigration salary list",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-immigration-salary-list/skilled-worker-visa-immigration-salary-list",
-        "govuk_format": "html_publication",
-        "first_published_at": "2024-04-04T00:01:02+01:00",
-        "public_updated_at": "2025-11-11T00:01:00+00:00"
-      },
-      "phd_discount": {
-        "dataset_id": "phd_discount",
-        "saved_file_name": "Skilled Worker visa_ Jobs that qualify for a PhD salary discount - GOV.UK.html",
-        "title": "Skilled Worker visa: Jobs that qualify for a PhD salary discount - GOV.UK",
-        "h1": "Skilled Worker visa: Jobs that qualify for a PhD salary discount",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-jobs-that-qualify-for-a-phd-salary-discount/skilled-worker-visa-jobs-that-qualify-for-a-phd-salary-discount",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:09+00:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "healthcare_national_pay_scales": {
-        "dataset_id": "healthcare_national_pay_scales",
-        "saved_file_name": "National pay scales for eligible healthcare occupation codes - GOV.UK.html",
-        "title": "National pay scales for eligible healthcare occupation codes - GOV.UK",
-        "h1": "National pay scales for eligible healthcare occupation codes",
-        "canonical_url": "https://www.gov.uk/government/publications/national-pay-scales-for-eligible-healthcare-jobs/national-pay-scales-for-eligible-healthcare-occupation-codes",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:09+00:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "education_national_pay_scales": {
-        "dataset_id": "education_national_pay_scales",
-        "saved_file_name": "National pay scales for eligible teaching and education leadership occupation codes - GOV.UK.html",
-        "title": "National pay scales for eligible teaching and education leadership occupation codes - GOV.UK",
-        "h1": "National pay scales for eligible teaching and education leadership occupation codes",
-        "canonical_url": "https://www.gov.uk/government/publications/national-pay-scales-for-eligible-teaching-and-education-jobs/national-pay-scales-for-eligible-teaching-and-education-leadership-occupation-codes",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:09+00:00",
-        "public_updated_at": "2025-04-09T09:00:04+01:00"
-      },
-      "pre_2024_cos_rules": {
-        "dataset_id": "pre_2024_cos_rules",
-        "saved_file_name": "Skilled Worker visa_ If you got your first certificate of sponsorship before 4 April 2024 - GOV.UK.html",
-        "title": "Skilled Worker visa: If you got your first certificate of sponsorship before 4 April 2024 - GOV.UK",
-        "h1": "Skilled Worker visa",
-        "canonical_url": "https://www.gov.uk/skilled-worker-visa/certificate-of-sponsorship-before-4-april-2024",
-        "govuk_format": "guide",
-        "first_published_at": "2014-02-07T17:07:29+00:00",
-        "public_updated_at": "2024-10-31T17:00:39+00:00"
-      },
-      "temporary_shortage_list": {
-        "dataset_id": "temporary_shortage_list",
-        "saved_file_name": "Skilled Worker visa_ temporary shortage list - GOV.UK.html",
-        "title": "Skilled Worker visa: temporary shortage list - GOV.UK",
-        "h1": "Skilled Worker visa: temporary shortage list",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-temporary-shortage-list/skilled-worker-visa-temporary-shortage-list",
-        "govuk_format": "html_publication",
-        "first_published_at": "2025-07-22T09:00:02+01:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "eligible_healthcare_and_education_jobs": {
-        "dataset_id": "eligible_healthcare_and_education_jobs",
-        "saved_file_name": "Skilled Worker visa_ eligible healthcare and education jobs - GOV.UK.html",
-        "title": "Skilled Worker visa: eligible healthcare and education jobs - GOV.UK",
-        "h1": "Skilled Worker visa: eligible healthcare and education jobs",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-eligible-healthcare-and-education-jobs/skilled-worker-visa-eligible-healthcare-and-education-jobs",
-        "govuk_format": "html_publication",
-        "first_published_at": "2020-12-01T09:00:10+00:00",
-        "public_updated_at": "2025-07-22T09:00:02+01:00"
-      },
-      "health_and_care_worker_different_salary_requirements": {
-        "dataset_id": "health_and_care_worker_different_salary_requirements",
-        "saved_file_name": "Health and Care Worker visa_ If you#U2019ll need to meet different salary requirements - GOV.UK.html",
-        "title": "Health and Care Worker visa: If you’ll need to meet different salary requirements - GOV.UK",
-        "h1": "Health and Care Worker visa",
-        "canonical_url": "https://www.gov.uk/health-care-worker-visa/different-salary-requirements",
-        "govuk_format": "guide",
-        "first_published_at": "2020-08-04T09:00:03+01:00",
-        "public_updated_at": "2024-10-31T17:00:15+00:00"
-      },
-      "skilled_worker_caseworker_guidance": {
-        "dataset_id": "skilled_worker_caseworker_guidance",
-        "saved_file_name": "Skilled Worker caseworker guidance (accessible) - GOV.UK.html",
-        "title": "Skilled Worker caseworker guidance (accessible) - GOV.UK",
-        "h1": "Skilled Worker caseworker guidance (accessible)",
-        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-caseworker-guidance/skilled-worker-caseworker-guidance-accessible",
-        "govuk_format": "html_publication",
-        "first_published_at": "2023-01-04T16:00:52+00:00",
-        "public_updated_at": "2026-05-11T15:44:47+01:00"
-      }
     },
     "record_counts": {
       "soc_records_total": 412,
@@ -154,7 +27,7 @@
   },
   "salary_rules": {
     "schema_version": "0.2.0",
-    "important_note": "Decision-support rules encoded from uploaded GOV.UK saved webpages and not legal or immigration advice.",
+    "important_note": "Decision-support rules encoded from  GOV.UK saved webpages and not legal or immigration advice.",
     "calculation_policy": {
       "owner": "application_code_not_llm",
       "default_basis_weekly_hours": 37.5,
@@ -180,7 +53,7 @@
         "label": "Pre 4 April 2024 certificate of sponsorship extension or update",
         "general_threshold_annual": 31300,
         "going_rate_column": "lower",
-        "valid_until": "2030-04-04 application deadline according to saved page wording",
+        "valid_until": "2030-04-04 application deadline according to",
         "requires": [
           "first_cos_before_2024_04_04",
           "continuous_skilled_worker_permission",
@@ -254,7 +127,7 @@
       "health_and_care_new_entrant_or_stem_phd": {
         "minimum_annual_salary": 25000,
         "rate_column": "lower",
-        "note": "The saved Health and Care page was not uploaded, but current GOV.UK guidance says some discounts use lower going rate with £25,000 floor. Treat as missing source unless added."
+        "note": "The saved Health and Care page was , but current GOV.UK guidance says some discounts use lower going rate with £25,000 floor. Treat as missing source unless added."
       },
       "health_and_care_non_stem_phd": {
         "minimum_annual_salary": 28200,
@@ -284,149 +157,6 @@
         "phd_stem_status",
         "postdoctoral_status",
         "national_pay_scale_band_or_role"
-      ]
-    },
-    "raw_saved_page_sections": {
-      "when_can_be_paid_less": [
-        {
-          "heading": "When you can be paid less",
-          "level": "h1",
-          "content": [
-            "You might still be able to apply for a Skilled Worker visa if your job is eligible but your salary is less than the standard salary requirement of £41,700 or your job’s standard ‘going rate’.",
-            "You can be paid between 70% and 90% of the standard going rate for your job if your salary is at least £33,400 per year and you meet one of the following criteria:",
-            "you’re under 26, studying or a recent graduate, or in professional training",
-            "you have a science, technology, engineering or maths (STEM) PhD level qualification that’s relevant to your job (if you have a relevant PhD level qualification in any other subject your salary must be at least £37,500)",
-            "you have a postdoctoral position in science or higher education",
-            "There are different salary rules if you work in some healthcare or education jobs or you’re extending your visa , updating your visa or switching to this visa to become a prison officer ."
-          ]
-        },
-        {
-          "heading": "Your job is on the immigration salary list",
-          "level": "h2",
-          "content": [
-            "The immigration salary list is a list of skilled jobs which have lower salary requirements.",
-            "If your job is on the immigration salary list you also pay a lower fee to apply for your visa.",
-            "You must be paid at least £33,400 per year if you are being sponsored for a job on the immigration salary list.",
-            "You must still be paid at least the standard going rate for your job. Check the standard going rate for your job in the going rates table .",
-            "View the immigration salary list to see if your job is included and how much you’ll need to be paid.",
-            "Make sure you check whether your job is listed in the part of the UK you’ll be working in – UK-wide, or only in England, Scotland, Wales or Northern Ireland."
-          ]
-        },
-        {
-          "heading": "You’re under 26, studying or a recent graduate, or in professional training",
-          "level": "h2",
-          "content": [
-            "You can be paid 70% of your job’s standard going rate if your salary will be at least £33,400 per year and one of the following applies:",
-            "you’re under 26 on the date you apply",
-            "you’re currently in the UK on a Student visa studying at bachelor’s degree level or above (or you have been in the last 2 years, and a Student or visit visa was your most recent visa)",
-            "you’re currently in the UK on a Graduate visa (or you have been in the last 2 years, and a Graduate or visit visa was your most recent visa)",
-            "you’ll be working towards a recognised qualification in a UK regulated profession",
-            "you’ll be working towards full registration or chartered status in the job you’re being sponsored for",
-            "If this applies to you, check how much you’ll need to be paid to qualify for this visa.",
-            "Your total stay in the UK cannot be more than 4 years if you apply for one of these reasons. This includes any time you’ve already spent in the UK on a Graduate visa."
-          ]
-        },
-        {
-          "heading": "You have a PhD level qualification that’s relevant to your job",
-          "level": "h2",
-          "content": [
-            "If your job is eligible for a PhD salary discount, you can be paid 80% or 90% of the job’s standard going rate, depending on which subject you are qualified in.",
-            "If you have a science, technology, engineering or maths (STEM) qualification, you can be paid 80% of your job’s standard going rate, as long as you will still be paid at least £33,400 a year.",
-            "If you have a non-STEM qualification, you can be paid 90% of your job’s standard going rate, as long as you will still be paid at least £37,500 a year.",
-            "In both situations, you must:",
-            "have a UK PhD or an equivalent doctorate-level overseas qualification - you’ll need to apply through Ecctis to check if an overseas qualification is equivalent to a UK PhD",
-            "be able to prove your qualification is relevant to the job you’ll be doing in the UK - your employer can confirm this",
-            "View the list of jobs that qualify for a PhD salary discount to see if your job is included and how much you need to be paid.",
-            "If you’re a research or academic leader, you may also be eligible to apply for the Global Talent visa . This visa has no language or minimum salary requirements."
-          ]
-        },
-        {
-          "heading": "You have a postdoctoral position in science or higher education",
-          "level": "h2",
-          "content": [
-            "You can be paid 70% of your job’s standard going rate if you’ll be working in a postdoctoral position in certain science or higher education roles.",
-            "Your job must be in one of the following occupation codes to qualify for this salary discount:",
-            "2111: chemical scientists",
-            "2112: biological scientists",
-            "2113: biochemists and biomedical scientists",
-            "2114: physical scientists",
-            "2115: social and humanities scientists",
-            "2119: natural and social science professionals not elsewhere classified",
-            "2162: other researchers, unspecified discipline",
-            "2311: higher education teaching professionals",
-            "If this applies to you, check how much you’ll need to be paid to qualify for this visa.",
-            "Your total stay in the UK cannot be more than 4 years if you apply to work in a postdoctoral position at 70% of the standard going rate. This includes any time you’ve already spent in the UK on a Graduate visa.",
-            "Check if you need a UK visa",
-            "Sponsorship: guidance for employers and educators",
-            "How to apply for a visa to come to the UK",
-            "Tax if you come to the UK",
-            "Work in the UK"
-          ]
-        }
-      ],
-      "pre_2024_cos_rules": [
-        {
-          "heading": "If you got your first certificate of sponsorship before 4 April 2024",
-          "level": "h1",
-          "content": [
-            "There are lower salary requirements if both of the following apply:",
-            "you got your certificate of sponsorship for your first Tier 2 or Skilled Worker visa before 4 April 2024",
-            "you have continually held one or more Skilled Worker visas since then",
-            "You can be paid whichever is higher of £31,300 or the lower going rate for your occupation if you make an application to:",
-            "extend your visa",
-            "update your visa",
-            "Lower salary requirements will only be in place for applications made before 4 April 2030. These salary requirements will be updated regularly and your salary will still need to rise in line with the updated going rates each time you apply.",
-            "Each occupation code has its own annual going rate. Check the lower going rate for your job in the going rates table ."
-          ]
-        },
-        {
-          "heading": "When you can be paid less",
-          "level": "h2",
-          "content": [
-            "You can be paid between 70% and 90% of the lower going rate for your job if your salary is at least £25,000 per year and you meet one of the following criteria:",
-            "you’re under 26, studying or a recent graduate, or in professional training",
-            "you have a science, technology, engineering or maths (STEM) PhD level qualification that’s relevant to your job (if you have a relevant PhD level qualification in any other subject your salary must be at least £28,200)",
-            "you have a postdoctoral position in science or higher education",
-            "Check how much you will need to be paid for these jobs in the going rates table .",
-            "There are different salary rules if you work in some healthcare or education jobs ."
-          ]
-        },
-        {
-          "heading": "If your job is on the immigration salary list",
-          "level": "h3",
-          "content": [
-            "If your job is on the immigration salary list , you need to be paid at least £25,000 or your job’s full going rate, whichever is higher."
-          ]
-        },
-        {
-          "heading": "If you’re under 26, studying or a recent graduate, or in professional training",
-          "level": "h3",
-          "content": [
-            "You can be paid at least 70% of your job’s lower going rate if your salary will be at least £25,000 per year.",
-            "Your total stay in the UK cannot be more than 4 years. This includes any time you’ve already spent in the UK on a Tier 2 (General) or Graduate visa."
-          ]
-        },
-        {
-          "heading": "If you have a PhD level qualification that’s relevant to your job",
-          "level": "h3",
-          "content": [
-            "If you have a science, technology, engineering or maths (STEM) PhD level qualification, you can be paid at least 80% of the lower going rate if your salary will be at least £25,000 per year.",
-            "If you have a relevant PhD level qualification in any other subject, you can be paid at least 90% of the lower going rate if your salary will be at least £28,200 per year."
-          ]
-        },
-        {
-          "heading": "If you have a postdoctoral position in science or higher education",
-          "level": "h3",
-          "content": [
-            "You can be paid at least 70% of the lower going rate if your salary will be at least £25,000 per year.",
-            "Your total stay in the UK cannot be more than 4 years. This includes any time you’ve already spent in the UK on a Tier 2 (General) or Graduate visa.",
-            "Check if you need a UK visa",
-            "Sponsorship: guidance for employers and educators",
-            "How to apply for a visa to come to the UK",
-            "Tax if you come to the UK",
-            "Work in the UK"
-          ]
-        }
       ]
     },
     "health_and_care_worker": {

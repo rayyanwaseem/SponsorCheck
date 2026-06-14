@@ -115,6 +115,7 @@ LLM_BASE_URL=http://localhost:11434/v1
 LLM_API_KEY=ollama
 LLM_MODEL=gemma4:e2b
 ```
+*(Note: If you are running SponsorCheck via Docker, you must change `localhost` to `host.docker.internal` so the container can reach your host machine: `LLM_BASE_URL=http://host.docker.internal:11434/v1`)*
 
 ### LM Studio Mode
 ```env
