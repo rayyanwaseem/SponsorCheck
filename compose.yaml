@@ -1,0 +1,30 @@
+services:
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - SPONSORCHECK_PROVIDER=rule_based
+      # - SPONSORCHECK_PROVIDER=openai_compatible
+      # - LLM_BASE_URL=http://host.docker.internal:11434/v1
+      # - LLM_API_KEY=ollama
+      # - LLM_MODEL=gemma4:e2b
+    volumes:
+      - ./data:/app/data:ro
+      - ./backend:/app/backend
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api
+    volumes:
+      - ./frontend:/app/frontend
+      - /app/frontend/node_modules
+      - /app/frontend/.next
+    command: npm run dev
