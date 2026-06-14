@@ -2,9 +2,136 @@
   "metadata": {
     "schema_version": "0.3.0",
     "generated_at": "2026-06-13T17:51:33.030743+00:00",
+    "generated_from_uploaded_files": [
+      "app_data.zip",
+      "missing dataset.zip",
+      "futher missing.zip"
+    ],
     "licence": {
       "name": "Open Government Licence v3.0",
       "note": "GOV.UK pages state that the publication is licensed under OGL v3.0 except where otherwise stated. Preserve attribution in UI, README and reports."
+    },
+    "sources": {
+      "eligible_occupations": {
+        "dataset_id": "eligible_occupations",
+        "saved_file_name": "Skilled Worker visa_ eligible occupations and codes - GOV.UK.html",
+        "title": "Skilled Worker visa: eligible occupations and codes - GOV.UK",
+        "h1": "Skilled Worker visa: eligible occupations and codes",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-eligible-occupations/skilled-worker-visa-eligible-occupations-and-codes",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:10+00:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "going_rates": {
+        "dataset_id": "going_rates",
+        "saved_file_name": "Skilled Worker visa_ going rates for eligible occupation codes - GOV.UK.html",
+        "title": "Skilled Worker visa: going rates for eligible occupation codes - GOV.UK",
+        "h1": "Skilled Worker visa: going rates for eligible occupation codes",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:09+00:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "paid_less": {
+        "dataset_id": "paid_less",
+        "saved_file_name": "Skilled Worker visa_ When you can be paid less - GOV.UK.html",
+        "title": "Skilled Worker visa: When you can be paid less - GOV.UK",
+        "h1": "Skilled Worker visa",
+        "canonical_url": "https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less",
+        "govuk_format": "guide",
+        "first_published_at": "2014-02-07T17:07:29+00:00",
+        "public_updated_at": "2024-10-31T17:00:39+00:00"
+      },
+      "immigration_salary_list": {
+        "dataset_id": "immigration_salary_list",
+        "saved_file_name": "Skilled Worker visa_ immigration salary list - GOV.UK.html",
+        "title": "Skilled Worker visa: immigration salary list - GOV.UK",
+        "h1": "Skilled Worker visa: immigration salary list",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-immigration-salary-list/skilled-worker-visa-immigration-salary-list",
+        "govuk_format": "html_publication",
+        "first_published_at": "2024-04-04T00:01:02+01:00",
+        "public_updated_at": "2025-11-11T00:01:00+00:00"
+      },
+      "phd_discount": {
+        "dataset_id": "phd_discount",
+        "saved_file_name": "Skilled Worker visa_ Jobs that qualify for a PhD salary discount - GOV.UK.html",
+        "title": "Skilled Worker visa: Jobs that qualify for a PhD salary discount - GOV.UK",
+        "h1": "Skilled Worker visa: Jobs that qualify for a PhD salary discount",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-jobs-that-qualify-for-a-phd-salary-discount/skilled-worker-visa-jobs-that-qualify-for-a-phd-salary-discount",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:09+00:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "healthcare_national_pay_scales": {
+        "dataset_id": "healthcare_national_pay_scales",
+        "saved_file_name": "National pay scales for eligible healthcare occupation codes - GOV.UK.html",
+        "title": "National pay scales for eligible healthcare occupation codes - GOV.UK",
+        "h1": "National pay scales for eligible healthcare occupation codes",
+        "canonical_url": "https://www.gov.uk/government/publications/national-pay-scales-for-eligible-healthcare-jobs/national-pay-scales-for-eligible-healthcare-occupation-codes",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:09+00:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "education_national_pay_scales": {
+        "dataset_id": "education_national_pay_scales",
+        "saved_file_name": "National pay scales for eligible teaching and education leadership occupation codes - GOV.UK.html",
+        "title": "National pay scales for eligible teaching and education leadership occupation codes - GOV.UK",
+        "h1": "National pay scales for eligible teaching and education leadership occupation codes",
+        "canonical_url": "https://www.gov.uk/government/publications/national-pay-scales-for-eligible-teaching-and-education-jobs/national-pay-scales-for-eligible-teaching-and-education-leadership-occupation-codes",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:09+00:00",
+        "public_updated_at": "2025-04-09T09:00:04+01:00"
+      },
+      "pre_2024_cos_rules": {
+        "dataset_id": "pre_2024_cos_rules",
+        "saved_file_name": "Skilled Worker visa_ If you got your first certificate of sponsorship before 4 April 2024 - GOV.UK.html",
+        "title": "Skilled Worker visa: If you got your first certificate of sponsorship before 4 April 2024 - GOV.UK",
+        "h1": "Skilled Worker visa",
+        "canonical_url": "https://www.gov.uk/skilled-worker-visa/certificate-of-sponsorship-before-4-april-2024",
+        "govuk_format": "guide",
+        "first_published_at": "2014-02-07T17:07:29+00:00",
+        "public_updated_at": "2024-10-31T17:00:39+00:00"
+      },
+      "temporary_shortage_list": {
+        "dataset_id": "temporary_shortage_list",
+        "saved_file_name": "Skilled Worker visa_ temporary shortage list - GOV.UK.html",
+        "title": "Skilled Worker visa: temporary shortage list - GOV.UK",
+        "h1": "Skilled Worker visa: temporary shortage list",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-temporary-shortage-list/skilled-worker-visa-temporary-shortage-list",
+        "govuk_format": "html_publication",
+        "first_published_at": "2025-07-22T09:00:02+01:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "eligible_healthcare_and_education_jobs": {
+        "dataset_id": "eligible_healthcare_and_education_jobs",
+        "saved_file_name": "Skilled Worker visa_ eligible healthcare and education jobs - GOV.UK.html",
+        "title": "Skilled Worker visa: eligible healthcare and education jobs - GOV.UK",
+        "h1": "Skilled Worker visa: eligible healthcare and education jobs",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-eligible-healthcare-and-education-jobs/skilled-worker-visa-eligible-healthcare-and-education-jobs",
+        "govuk_format": "html_publication",
+        "first_published_at": "2020-12-01T09:00:10+00:00",
+        "public_updated_at": "2025-07-22T09:00:02+01:00"
+      },
+      "health_and_care_worker_different_salary_requirements": {
+        "dataset_id": "health_and_care_worker_different_salary_requirements",
+        "saved_file_name": "Health and Care Worker visa_ If you#U2019ll need to meet different salary requirements - GOV.UK.html",
+        "title": "Health and Care Worker visa: If you’ll need to meet different salary requirements - GOV.UK",
+        "h1": "Health and Care Worker visa",
+        "canonical_url": "https://www.gov.uk/health-care-worker-visa/different-salary-requirements",
+        "govuk_format": "guide",
+        "first_published_at": "2020-08-04T09:00:03+01:00",
+        "public_updated_at": "2024-10-31T17:00:15+00:00"
+      },
+      "skilled_worker_caseworker_guidance": {
+        "dataset_id": "skilled_worker_caseworker_guidance",
+        "saved_file_name": "Skilled Worker caseworker guidance (accessible) - GOV.UK.html",
+        "title": "Skilled Worker caseworker guidance (accessible) - GOV.UK",
+        "h1": "Skilled Worker caseworker guidance (accessible)",
+        "canonical_url": "https://www.gov.uk/government/publications/skilled-worker-visa-caseworker-guidance/skilled-worker-caseworker-guidance-accessible",
+        "govuk_format": "html_publication",
+        "first_published_at": "2023-01-04T16:00:52+00:00",
+        "public_updated_at": "2026-05-11T15:44:47+01:00"
+      }
     },
     "record_counts": {
       "soc_records_total": 412,

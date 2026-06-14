@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.3.0",
+  "checked_at": "2026-06-13T17:51:33.030743+00:00",
+  "datasets_from_uploaded_pages": [
+    "eligible_occupations",
+    "going_rates",
+    "when_can_be_paid_less",
+    "immigration_salary_list",
+    "phd_discount",
+    "healthcare_national_pay_scales",
+    "education_national_pay_scales",
+    "pre_2024_cos_rules",
+    "temporary_shortage_list",
+    "eligible_healthcare_and_education_jobs",
+    "health_and_care_worker_different_salary_requirements",
+    "skilled_worker_caseworker_guidance"
+  ],
+  "covered_core_needs": [
+    "eligible_occupations",
+    "going_rates",
+    "when_can_be_paid_less",
+    "immigration_salary_list",
+    "phd_discount",
+    "healthcare_national_pay_scales",
+    "education_national_pay_scales",
+    "pre_2024_cos_rules",
+    "temporary_shortage_list",
+    "eligible_healthcare_and_education_jobs",
+    "health_and_care_worker_different_salary_requirements",
+    "skilled_worker_caseworker_guidance"
+  ],
+  "remaining_recommended_references": [
+    {
+      "dataset_id": "immigration_rules_appendix_skilled_occupations_and_appendix_skilled_worker",
+      "priority": "medium_for_legal_cross_check_not_mvp_blocker",
+      "status": "not_saved_as_html",
+      "why_needed": "Canonical legal source for exact Immigration Rules wording. Useful for legal QA and regression tests, but the operational GOV.UK tables and guidance now cover the core app calculations."
+    },
+    {
+      "dataset_id": "uk_regulated_professions_and_chartered_bodies_reference",
+      "priority": "low_to_medium_if_auto_validating_new_entrant_reason",
+      "status": "not_saved_as_dataset",
+      "why_needed": "Only needed if the app tries to verify professional qualification, registration or chartership new entrant criteria automatically. MVP can ask the user and sponsor to confirm instead."
+    },
+    {
+      "dataset_id": "ecctis_verification_outcome",
+      "priority": "external_user_specific_evidence_not_static_dataset",
+      "status": "not_a_static_dataset",
+      "why_needed": "Needed to evidence overseas PhD equivalence, but cannot be preloaded as general reference data."
+    }
+  ],
+  "assessment": "The uploaded pages now cover the core offline datasets for SOC matching, Skilled Worker salary route checks, Health and Care Worker salary checks, temporary shortage list checks, healthcare and education eligibility, and caseworker guidance based regression tests. Further legal references are useful but should not block the app architecture."
+}
